@@ -1,0 +1,29 @@
+body{
+	background-color: #00f;
+	height:100%;
+	width:100%;
+}
+.stage{
+	z-index: -100;
+}
+.background1{
+	
+}
+.background2{
+	
+}
+.background3{
+	background-image: url(http://digitalart.umwblogs.org/files/2009/09/Cory-Arcangel-300x263.jpg);
+	background-size: contain;
+}
+.mario{
+	background-color: #0f0;
+	width: 160px;
+	height: 160px;
+}
+.box{
+	background-color: #BD8BF6;
+}
+#boxFront{
+	background-color: #666666;
+}
